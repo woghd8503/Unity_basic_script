@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Unity_basic1.cs" />
     <Compile Include="Assets\Script\Unity_basic2.cs" />
+    <Compile Include="Assets\Script\Unity_basic3.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
