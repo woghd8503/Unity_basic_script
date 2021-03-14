@@ -68,6 +68,7 @@
     <Compile Include="Assets\Script\Unity_basic10.cs" />
     <Compile Include="Assets\Script\Unity_basic11.cs" />
     <Compile Include="Assets\Script\Unity_basic12.cs" />
+    <Compile Include="Assets\Script\Unity_basic13.cs" />
     <Compile Include="Assets\Script\Unity_basic2.cs" />
     <Compile Include="Assets\Script\Unity_basic3.cs" />
     <Compile Include="Assets\Script\Unity_basic4.cs" />
