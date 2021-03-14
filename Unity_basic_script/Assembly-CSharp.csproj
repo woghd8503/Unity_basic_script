@@ -68,10 +68,9 @@
     <Compile Include="Assets\Script\Unity_basic10.cs" />
     <Compile Include="Assets\Script\Unity_basic11.cs" />
     <Compile Include="Assets\Script\Unity_basic12.cs" />
-<<<<<<< .merge_file_a18436
-=======
     <Compile Include="Assets\Script\Unity_basic13.cs" />
->>>>>>> .merge_file_a23152
+    <Compile Include="Assets\Script\Unity_basic14.cs" />
+    <Compile Include="Assets\Script\Unity_basic15.cs" />
     <Compile Include="Assets\Script\Unity_basic2.cs" />
     <Compile Include="Assets\Script\Unity_basic3.cs" />
     <Compile Include="Assets\Script\Unity_basic4.cs" />
