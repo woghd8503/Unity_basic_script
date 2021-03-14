@@ -65,12 +65,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Unity_basic1.cs" />
+    <Compile Include="Assets\Script\Unity_basic10.cs" />
+    <Compile Include="Assets\Script\Unity_basic11.cs" />
     <Compile Include="Assets\Script\Unity_basic2.cs" />
     <Compile Include="Assets\Script\Unity_basic3.cs" />
     <Compile Include="Assets\Script\Unity_basic4.cs" />
     <Compile Include="Assets\Script\Unity_basic5.cs" />
     <Compile Include="Assets\Script\Unity_basic6.cs" />
     <Compile Include="Assets\Script\Unity_basic7.cs" />
+    <Compile Include="Assets\Script\Unity_basic8.cs" />
+    <Compile Include="Assets\Script\Unity_basic9.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
